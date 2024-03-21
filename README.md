@@ -37,6 +37,8 @@ From the Dashboard, It is observed that
 6. The best selling segment is **Consumer segment** and the worst selling segment is **Home segment office**
 ##
 ![](superstore_page2.png)
+##
+![](cover profile.png)
 
 From this 2nd Dashboard, It is observed that
 1. The highest Sales came from **New York** and **Los Angeles** city while the least sales came from **Abilene**
@@ -44,3 +46,7 @@ From this 2nd Dashboard, It is observed that
 3. The most preferred ship mode by the customer is the **Standard Ship"
 ##
 ![](superstore_page3.png)
+##
+![](thankyou.png.webp)
+##
+![](thankyou.png.webp)

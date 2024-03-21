@@ -46,7 +46,11 @@ From this 2nd Dashboard, It is observed that
 3. The most preferred ship mode by the customer is the **Standard Ship"
 ##
 ![](superstore_page3.png)
+
+From the 3rd Dashboard,
+1. We can see the sales by sub category
+2. Sale by category and year etc. 
 ##
 ![](thankyou.png.webp)
 ##
-![](thankyou.png.webp)
+![](cover_profile.png)

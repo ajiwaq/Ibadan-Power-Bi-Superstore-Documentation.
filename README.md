@@ -1,4 +1,4 @@
-# Ibadan-Power-Bi-Superstore-Documentation.
+# SUPER STORE ANALYSIS
 Greetings fellow data Colleagues!
 
 Embarking on a five-week journey with the **IBADAN POWER PLATFORM COMMUNITY** has been an enriching experience, culminating in a real-world application of our newfound Power BI skills. The community generously provided us with a dataset, challenging us to unleash the potential of data analytics and draw meaningful insights.
